@@ -1,5 +1,5 @@
 {
-  "name": "openai-curated",
+  "name": "apex-openai-plugins",
   "interface": {
     "displayName": "Codex official"
   },
